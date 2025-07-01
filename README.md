@@ -58,7 +58,7 @@ Appliquer les recommandations ANSSI niveau standard sur une Debian 12 fraîche, 
 
 16. **Checklist finale**
     - Affiche toutes les étapes réussies et échouées
-    - Stocke tout dans `/var/log/durcissement.log`
+    - Stocke tout dans `/var/log/[NOM_DU_SCRIPT].log`
 
 ---
 
